@@ -5,4 +5,4 @@ Annotations stored separatly (with different url link) and written in XML format
 
 ![result](https://github.com/VolkhinD/object_detection/blob/main/download%20(1).png)
 
-![doggy] (https://github.com/VolkhinD/object_detection/blob/main/download.png)
+![doggy](https://github.com/VolkhinD/object_detection/blob/main/download.png)
